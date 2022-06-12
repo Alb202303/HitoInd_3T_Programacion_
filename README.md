@@ -6,4 +6,4 @@ En la cuestión 1, se realiza un ejemplo sencillo de herencia, sobrecarga y sobr
 
 La cuestión 2 es un cuestionario que saca preguntas aleatorias acerca de capitales del mundo, y dónde al final sale la puntuación obtenida.
 
-La cuestión 3 es un CRUD dónde se pueden insertar, editar y eliminar productos almacenados en una base de datos SQL (LA BASE DE DATOS ESTÁ DENTRO DE LA CARPETA DE CUESTION 3)
+La cuestión 3 es una aplicación CRUD dónde se pueden insertar, editar y eliminar productos almacenados en una base de datos SQL. También se muestran en una tabla (LA BASE DE DATOS ESTÁ DENTRO DE LA CARPETA DE CUESTION 3)
