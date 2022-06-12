@@ -1,4 +1,4 @@
-# hito3t
+# Hito de programación
 
 Hito del 3er trimestre de programación realizado por Alberto Díaz.
 
